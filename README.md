@@ -1,2 +1,0 @@
-# karesemeny-gui
-Karesemeny
